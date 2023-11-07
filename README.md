@@ -5,7 +5,7 @@
 - Nuñez, Alessandra
 - Leite, Josue
 
-# Primer avance
+# Entrega 22/10
 ## 1. Caso de Negocio
 ### 1. 1. Generalidades 
 
