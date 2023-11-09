@@ -5,7 +5,7 @@
 - Nuñez, Alessandra
 - Leite, Josue
 
-#Entrega 9/11 Patrones Cloud
+# Entrega 9/11 Patrones Cloud
 - 1.- Edgar Espinoza:
 - Patrón: Pipes & Filters
 - Enlace : https://docs.google.com/presentation/d/10C66sm1rw4tRxl2vSB_PApYGjYBi1Sok8U0hz_DH8Bc/edit?usp=sharing  
